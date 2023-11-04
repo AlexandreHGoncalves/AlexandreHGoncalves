@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><strong>Hello, World!</strong></h2>
+  <h1><strong>Hello, World!</strong></h1>
   <p><strong>Welcome to my GitHub profile!</strong> </br>Get confy and drink a nice cup of tea. :tea:</p>
 </div>
 <div align="center">
