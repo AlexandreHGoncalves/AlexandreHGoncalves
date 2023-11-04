@@ -1,8 +1,8 @@
-<div>
+<div align="center">
   <h2><strong>Hello, World!</strong></h2>
   <p><strong>Welcome to my GitHub profile!</strong> </br>Get confy and drink a nice cup of tea. :tea:</p>
 </div>
-<div>
+<div align="center">
   <p>
     <a href="https://github.com/AlexandreHGoncalves/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats-alexandre-h-goncalves.vercel.app/api?username=AlexandreHGoncalves&show_icons=true&theme=tokyonight&include_all_commits=true&card_width=320" />
